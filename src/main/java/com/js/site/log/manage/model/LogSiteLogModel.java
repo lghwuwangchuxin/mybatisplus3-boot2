@@ -27,7 +27,6 @@ public class LogSiteLogModel implements Serializable {
     private Long id;
 
     
-    
     /**
      * 用户标识（身份证或警号）
      */
