@@ -26,6 +26,8 @@ public class LogSiteLogModel implements Serializable {
     @TableId(value = "ID", type = IdType.ID_WORKER)
     private Long id;
 
+    
+    
     /**
      * 用户标识（身份证或警号）
      */
